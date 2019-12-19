@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Ajedrez\\Ajedrez.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Ajedrez\\Ajedrez.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Ajedrez\\Ajedrez.csproj",
+        "projectName": "Ajedrez",
+        "projectPath": "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Ajedrez\\Ajedrez.csproj",
+        "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Ajedrez\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Pieza\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Pieza\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Pieza\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Pieza\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Pieza\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaia\\source\\repos\\Ajedrez\\Pieza\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

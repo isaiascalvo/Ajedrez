@@ -1,0 +1,14 @@
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.deps.json
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.runtimeconfig.json
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.runtimeconfig.dev.json
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.dll
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.pdb
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.csprojAssemblyReference.cache
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.AssemblyInfoInputs.cache
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.AssemblyInfo.cs
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.csproj.CopyComplete
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.dll
+C:\Users\isaia\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.pdb
